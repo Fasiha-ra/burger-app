@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+.bottom{
+  background-color: #919c21;
+}
+
+.top-bun{
+  margin-left: 27rem;
+  height: 80px;
+  width: 500px;
+  border-radius: 70px 70px 20px 20px;
+  background-color: #f69449;
+  margin-bottom: 10px;
+}
+.bottom-bun{
+  margin-left: 27rem;
+  height: 70px;
+  width: 500px;
+  border-radius:20px 20px 70px 70px;
+  background-color: #f69449;
+  margin-top: 10px;
+}
+.salad{
+  margin-left: 26.5rem;
+  margin-bottom: 5px;
+  height: 30px;
+  width: 520px;
+  background-color: #54d561;
+  border-radius: 20px;
+  
+}
+.cheese{
+  margin-left: 26.5rem;
+  margin-bottom: 5px;
+  height: 15px;
+  width: 520px;
+  background-color: #e8f05a;
+  border-radius: 20px;
+}
+.meat{
+  margin-left: 27rem;
+  height: 50px;
+  width: 500px;
+  background-color: #4a1e10;
+  border-radius: 22px;
+}
+p{
+  font-size: 24px;
+  font-weight: bold;
+}
+button{
+  border: none;
+  padding: 15px; 
+  width: 90px;
+  color: #fff;
+  background-color: #a0e89f;
+  cursor: pointer;
+  margin: 10px;
+}
+.order{
+  width: 90px;
+  background: #5c82eb;
+  padding: 10px;
+  cursor: pointer;
+  
+}
